@@ -7,19 +7,6 @@ This project is an **ATM Management System** built in Python, which incorporates
 - **Loan Eligibility Prediction**: Uses a **Random Forest** classifier to predict loan eligibility based on the calculated credit score and other features.
 - **Dynamic Data Handling**: The system can update its credit scoring model with real-time transaction data and feedback from the user.
 
-## Project Structure
-ATM-Management-System/
-│
-├── data/
-│ ├── training_customers.csv # Customer training dataset
-│ └── test_customers.csv # Customer test dataset
-│
-├── main.py # Main ATM system logic
-├── credit_model.py # Machine learning model for credit scoring
-├── process_uploaded_customers.py # Script for processing customer data and updating models
-├── setup_db.py # Script for setting up the SQLite database
-└── README.md # Project documentation
-
 ## Prerequisites
 - Python 3.x
 - Required Python libraries: `pandas`, `numpy`, `sklearn`, `joblib`, `sqlite3`, `matplotlib`
