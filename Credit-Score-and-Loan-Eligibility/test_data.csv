@@ -1,0 +1,4 @@
+customer_id,name,age,gender,account_type,account_balance,account_open_date,loan_history,transactions
+101,Anjali Verma,30,F,Savings,4500.0,2021-01-15,approved,"deposit:2000,withdrawal:800"
+102,Sandeep Kumar,33,M,Checking,6400.0,2020-06-10,rejected,"withdrawal:1500,deposit:2000"
+103,Meenal Joshi,28,F,Savings,5200.0,2022-07-22,approved,"deposit:3000,withdrawal:1200"
