@@ -1,6 +1,0 @@
-customer_id,name,age,gender,account_type,account_balance,account_open_date,loan_history,transactions,loan_eligible
-1,John Doe,28,M,Savings,3500.0,2020-06-12,approved,"deposit:2000,withdrawal:500",1
-2,Jane Smith,40,F,Checking,8000.0,2015-05-10,rejected,"withdrawal:1000,deposit:1500",0
-3,Michael Brown,50,M,Savings,12000.0,2010-01-01,approved,"deposit:3000,withdrawal:1000",1
-4,Emily Davis,32,F,Checking,6000.0,2018-09-25,rejected,"withdrawal:2000,deposit:2500",0
-5,David Wilson,60,M,Savings,15000.0,2008-04-01,approved,"deposit:4000,withdrawal:2000",1
